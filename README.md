@@ -42,7 +42,7 @@ cp your_documents/*.md docs/input/
 在Claude Code中使用自然语言指令：
 
 ```
-分析docs/input/输入目录中的所有文档
+请严格遵循CLAUDE.md与SYSTEM_PROMPT.md所指示的规则，分析docs/input/输入目录中的所有文档，并完成文档合并与汇总报告的输出
 ```
 
 系统将自动：
